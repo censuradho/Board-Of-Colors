@@ -9,5 +9,5 @@ function clickSound() {
     sound.src = 'audio-button.mp3';
     sound.play();
 }
-btn.addEventListener('click', mudaCor)
-btn.addEventListener('click', clickSound)
+btn.addEventListener('click', mudaCor);
+btn.addEventListener('click', clickSound);

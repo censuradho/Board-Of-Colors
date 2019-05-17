@@ -12,6 +12,9 @@ section {
     align-items: center;
     margin-top: 100px;
 }
+#um, h1 {
+    box-shadow:  10px 10px 20px rgba(0, 0, 0, 0.3);
+}
 @media screen and (max-width: 600px) {
     #um   {
         width: 300px !important;
